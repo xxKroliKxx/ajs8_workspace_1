@@ -9,6 +9,7 @@
       "error",
       "LabeledStatement",
       "WithStatement"
-    ]
+    ],
+    "no-unused-vars": ["error", { "varsIgnorePattern": "alive" }]
   }
 }
